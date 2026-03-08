@@ -1,0 +1,21 @@
+Order_ID|Customer_Name|Product_Category|Price_per_Unit|Quantity|Order_Date|Discount_Code|Shipping_Cost
+ORD-001 | Budi Santoso | Electronics | Rp 1.500.000 | 2 pcs | 2024-02-01 | PROMO20 | Rp 50.000
+ord-002 | siti aminah | fashion | IDR 250,000 | 1 | 02/02/2024 | NONE | Gratis
+ORD-003 |  Andi T. | ELEC | 3.5 Juta | -1 | Feb 03 2024 | NaN | 100K
+ORD-001 | Budi Santoso | Electronics | Rp 1.500.000 | 2 pcs | 2024-02-01 | PROMO20 | Rp 50.000
+ORD-004 | Joko | Groceries | Rp 50.000 | 5 | 2024-02-04 | DISKON50 | Rp 15.000
+ORD-005 | Rina | FASHION | 150000 | NaN | 05-02-2024 | promo20 | 20k
+ord-006 |  Dewi P. | Electronics | IDR 4.200.000 | 1 pcs | 2024/02/06 | NaN | Gratis
+ORD-007 | Ahmad | Groceries | Rp 75.000 | 10 | 07/02/2024 | NONE | Rp 25.000
+ORD-008 | budi santoso | fashion | 250,000 | 2 | 2024-02-08 | PROMO20 | 15K
+ORD-009 | citra | elec | Rp 2.1 Juta | 1 | 09-02-2024 | NaN | Gratis
+ORD-010 | tono | Groceries | IDR 100.000 | -5 | Feb 10 2024 | DISKON50 | Rp 20.000
+ORD-011 | SITI AMINAH | Fashion | 300000 | 3 pcs | 2024-02-11 | none | 25k
+ORD-012 | Bima | ELECTRONICS | 5 Juta | NaN | 12/02/2024 | PROMO20 | Gratis
+ORD-004 | Joko | Groceries | Rp 50.000 | 5 | 2024-02-04 | DISKON50 | Rp 15.000
+ORD-013 | rudi | fashion | IDR 150,000 | 2 | 13-02-2024 | NaN | 15K
+ord-014 |  Andi T. | Elec | Rp 1.200.000 | 1 | 2024/02/14 | PROMO20 | 50k
+ORD-015 | Putri | GROCERIES | 80000 | 4 pcs | 15/02/2024 | NONE | Gratis
+ORD-016 | Rina | Fashion | Rp 200.000 | -2 | 2024-02-16 | DISKON50 | Rp 20.000
+ORD-017 | Ahmad | Electronics | 2.5 Juta | 1 | Feb 17 2024 | NaN | 30K
+ord-018 | dewi p. | fashion | IDR 350.000 | 2 pcs | 18-02-2024 | promo20 | Gratis
