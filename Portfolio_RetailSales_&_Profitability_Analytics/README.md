@@ -76,3 +76,9 @@ Berdasarkan temuan di atas, rekomendasi untuk kuartal berikutnya adalah:
 4. Jalankan `02_Data_Visualization.ipynb` untuk merender grafik EDA.
 
 ---
+
+## 📬 Let's Connect!
+Jika Anda memiliki pertanyaan, masukan, atau tawaran kolaborasi, jangan ragu untuk menghubungi saya:
+- **Email:** diki.naufal29dev@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/dikinaufal/
+- **Portfolio:** Menyusul! 😁🙏
