@@ -1,9 +1,9 @@
-# ⚽ Retail Sales & Profitability Analysis: Business Value from Messy POS Data
+# ⚽ Retail Sales & Profitability Analysis: From Messy Data to Business Insights
 
-## 📌 Latar Belakang & Tujuan Bisnis
+## 📌 Latar Belakang & Tujuan Bisnis (Business Context)
 Data transaksi dari sistem kasir (*Point of Sales*) di industri ritel sering kali kotor dan tidak konsisten akibat proses input manual. Proyek ini bertujuan untuk membersihkan data mentah tersebut dan mengubahnya menjadi *insight* bisnis yang berguna untuk mengevaluasi performa penjualan, profitabilitas produk, dan tren keuntungan.
 
-## 🗄️ Sumber Data & Kamus Data
+## 🗄️ Sumber Data & Kamus Data(Data Sources and Data Dictionary)
 - **Sumber:** Dataset simulasi e-commerce (Atau tuliskan tautan sumber asli jika menggunakan data publik seperti Kaggle / BPS semacamnya).
 - **Kamus Data Utama:**
   - `Invoice_ID`: Nomor unik bukti transaksi.
@@ -30,7 +30,7 @@ Data transaksi dari sistem kasir (*Point of Sales*) di industri ritel sering kal
 
 ---
 
-## 🧹 Part 1: Pembersihan Data (Data Cleaning)
+## 🧹 Bagian 1: Pembersihan Data (Data Cleaning)
 Dataset awal memiliki berbagai anomali. Penanganan tingkat lanjut yang dilakukan meliputi:
 - **Advanced Text Mapping:** Menggunakan fungsi *custom* bersarang (*nested if-elif-else*) untuk mendeteksi dan menyamakan berbagai variasi input nama produk yang berantakan menjadi nama klub standar (yang bersih).
 - **Complex Regex & Currency Parsing:** Menggunakan *Regular Expression* (`regex=True`) untuk menghapus satuan teks ("pcs", "unit"), serta fungsi `.apply()` untuk mengonversi format mata uang Indonesia ("Juta", "K", "Rp", "IDR") menjadi numerik.
@@ -53,7 +53,7 @@ Dataset awal memiliki berbagai anomali. Penanganan tingkat lanjut yang dilakukan
 
 ---
 
-## 📊 Part 2: Hasil Analisis & Temuan Utama (Key Insights)
+## 📊 Bagian 2: Hasil Analisis & Temuan Utama (Key Insights)
 Berdasarkan visualisasi data yang telah dilakukan, berikut adalah temuan bisnis utama selama bulan Maret 2024:
 1. **Performa Tenaga Penjual:** **Andi T.** adalah tenaga penjual dengan performa terbaik, menyumbang total pendapatan paling besar bagi perusahaan.
 2. **Profitabilitas Produk Utama:** Jersey **Paris Saint-Germain** menjadi produk yang paling menguntungkan.
