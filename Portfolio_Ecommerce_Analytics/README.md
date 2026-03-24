@@ -21,7 +21,7 @@ Proyek ini menggunakan struktur *modular* yang memisahkan proses transformasi da
 
 ---
 
-## 🧹 Part 1: Pembersihan Data (Data Cleaning)
+## 🧹 Bagian 1: Pembersihan Data (Data Cleaning)
 Dataset awal memiliki berbagai masalah kualitas data. Penanganan yang dilakukan meliputi:
 - **Complex Currency Parsing:** Pembuatan fungsi kustom (`.apply()`) untuk mendeteksi dan mengonversi format mata uang yang tidak konsisten ("3.5 Juta", "100K", "Gratis", "Rp", "IDR") menjadi *float* numerik.
 - **Text Standardization:** Pembersihan *whitespaces*/*spasi* gaib, penyeragaman huruf kapital, dan standarisasi nama kategori produk.
@@ -46,7 +46,7 @@ Dataset awal memiliki berbagai masalah kualitas data. Penanganan yang dilakukan 
 
 ---
 
-## 📊 Part 2: Hasil Analisis & Temuan Utama (Key Insights)
+## 📊 Bagian 2: Hasil Analisis & Temuan Utama (Key Insights)
 Berdasarkan analisis visualisasi data yang telah dilakukan, berikut adalah temuan utama dari transaksi bulan Februari 2024:
 1. **Tren Pendapatan Harian:** Pendapatan menunjukkan tren yang fluktuatif, dengan lonjakan transaksi tertinggi terjadi pada tanggal 11.
 2. **Kategori Produk Paling Menguntungkan:** **Electronics** adalah penyumbang pendapatan terbesar, diikuti oleh Fashion. 
