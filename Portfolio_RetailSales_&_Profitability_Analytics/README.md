@@ -1,7 +1,7 @@
 # ⚽ Retail Sales & Profitability Analysis: From Messy Data to Business Insights
 
 ## 📌 Latar Belakang & Tujuan Bisnis (Business Context)
-Data transaksi dari sistem kasir (*Point of Sales*) di industri ritel sering kali kotor dan tidak konsisten akibat proses input manual. Proyek ini bertujuan untuk membersihkan data mentah tersebut dan mengubahnya menjadi *insight* bisnis yang berguna untuk mengevaluasi performa penjualan, profitabilitas produk, dan tren keuntungan.
+Data transaksi dari sistem kasir di industri ritel sering kali kotor dan tidak konsisten akibat proses input manual. Proyek ini bertujuan untuk membersihkan data mentah tersebut dan mengubahnya menjadi *insight* bisnis yang berguna untuk mengevaluasi performa penjualan, profitabilitas produk, dan tren keuntungan.
 
 ## 🗄️ Sumber Data & Kamus Data(Data Sources and Data Dictionary)
 - **Sumber:** Dataset simulasi e-commerce (Atau tuliskan tautan sumber asli jika menggunakan data publik seperti Kaggle / BPS semacamnya).
