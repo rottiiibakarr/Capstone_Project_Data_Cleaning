@@ -32,16 +32,16 @@ Dataset awal memiliki berbagai masalah kualitas data. Penanganan yang dilakukan 
 
 ## 🖼️ Dashboard Visualisasi (Visualization Dashboard)
 
-![Tren Penjualan](https://github.com/rottiiibakarr/Capstone_Project_Data_Cleaning/blob/main/Portfolio_Ecommerce_Analytics/Total_Pendapatan.png?raw=true)
+![Tren Penjualan](https://github.com/rottiiibakarr/Capstone_Project_Data_Cleaning/blob/main/Portfolio_Ecommerce_Analytics/penjualan_harian.png?raw=true)
 *Gambar 1: Tren total pendapatan harian selama bulan Februari 2024.*
 
-![Kategori Produk](https://github.com/rottiiibakarr/Capstone_Project_Data_Cleaning/blob/main/Portfolio_Ecommerce_Analytics/Keuntungan_Produk.png?raw=true)
+![Kategori Produk](https://github.com/rottiiibakarr/Capstone_Project_Data_Cleaning/blob/main/Portfolio_Ecommerce_Analytics/keuntungan_produk.png?raw=true)
 *Gambar 2: Perbandingan total pendapatan berdasarkan kategori produk.*
 
-![Kuantitas Pembelian](https://github.com/rottiiibakarr/Capstone_Project_Data_Cleaning/blob/main/Portfolio_Ecommerce_Analytics/Keuntungan_Produk.png?raw=true)
+![Kuantitas Pembelian](https://github.com/rottiiibakarr/Capstone_Project_Data_Cleaning/blob/main/Portfolio_Ecommerce_Analytics/distribusi_kuantitas.png?raw=true)
 *Gambar 3: Perbandingan kuantitas pembelian produk berdasarkan jumlah transaksi.*
 
-![Penggunaan Diskon](https://github.com/rottiiibakarr/Capstone_Project_Data_Cleaning/blob/main/Portfolio_Ecommerce_Analytics/Penggunaan_Diskon.png?raw=true)
+![Penggunaan Diskon](https://github.com/rottiiibakarr/Capstone_Project_Data_Cleaning/blob/main/Portfolio_Ecommerce_Analytics/pengunaan_diskon.png?raw=true)
 *Gambar 4: Perbandingan penggunaan diskon berdasarkan pengguna.*
 
 ---
