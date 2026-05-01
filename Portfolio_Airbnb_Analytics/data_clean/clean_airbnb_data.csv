@@ -3103,7 +3103,6 @@ Athens,116.0,Weekday,Entire home/apt,False,False,6,False,0,1,9.0,91.0,2,2.71,0.2
 Athens,120.45,Weekday,Entire home/apt,False,False,4,False,0,1,9.0,89.0,1,2.77,0.17,63.89,2.41,94.38,7.09
 Athens,127.72,Weekday,Entire home/apt,False,False,6,False,0,1,9.0,97.0,2,2.82,0.06,63.29,2.39,93.84,7.05
 Athens,133.34,Weekday,Entire home/apt,False,False,6,False,0,1,10.0,94.0,2,2.63,0.26,67.88,2.56,100.52,7.55
-Athens,110.14,Weekday,Entire home/apt,False,False,3,True,0,1,10.0,97.0,0,0.98,0.32,143.84,5.42,255.59,19.19
 Athens,183.02,Weekday,Entire home/apt,False,False,3,False,0,1,9.0,89.0,1,1.23,0.32,151.91,5.73,269.37,20.23
 Athens,69.6,Weekday,Entire home/apt,False,False,2,False,0,0,10.0,95.0,1,4.04,0.64,43.64,1.65,64.04,4.81
 Athens,193.57,Weekday,Entire home/apt,False,False,4,False,0,0,10.0,100.0,2,2.8,0.62,56.09,2.11,81.09,6.09
@@ -4502,7 +4501,6 @@ Athens,138.96,Weekday,Entire home/apt,False,False,4,False,0,1,10.0,100.0,1,1.43,
 Athens,145.06,Weekday,Entire home/apt,False,False,4,False,1,0,10.0,100.0,0,0.46,0.41,281.66,10.62,480.09,36.05
 Athens,111.31,Weekday,Entire home/apt,False,False,4,True,1,0,10.0,100.0,2,2.48,0.65,68.36,2.58,103.78,7.79
 Athens,57.88,Weekday,Entire home/apt,False,False,3,False,0,0,10.0,100.0,1,2.51,0.55,62.35,2.35,91.29,6.85
-Athens,159.82,Weekday,Entire home/apt,False,False,5,False,1,0,10.0,100.0,2,1.46,0.55,97.59,3.68,135.33,10.16
 Athens,125.37,Weekday,Entire home/apt,False,False,4,False,0,1,10.0,100.0,2,2.04,0.92,74.95,2.83,106.66,8.01
 Athens,81.08,Weekday,Entire home/apt,False,False,3,False,0,0,10.0,100.0,1,1.97,0.35,92.49,3.49,142.59,10.71
 Athens,150.21,Weekday,Entire home/apt,False,False,4,False,0,0,9.0,94.0,2,3.44,0.4,49.82,1.88,73.14,5.49
@@ -5033,7 +5031,6 @@ Athens,185.36,Weekend,Entire home/apt,False,False,4,True,0,1,10.0,97.0,2,2.73,0.
 Athens,120.45,Weekend,Entire home/apt,False,False,4,False,0,1,9.0,89.0,1,2.77,0.17,63.89,2.41,94.38,1.41
 Athens,127.72,Weekend,Entire home/apt,False,False,6,False,0,1,9.0,97.0,2,2.82,0.06,63.29,2.38,93.84,1.4
 Athens,133.34,Weekend,Entire home/apt,False,False,6,False,0,1,10.0,94.0,2,2.63,0.26,67.88,2.56,100.52,1.5
-Athens,110.14,Weekend,Entire home/apt,False,False,3,True,0,1,10.0,97.0,0,0.98,0.32,143.84,5.42,255.59,3.82
 Athens,69.6,Weekend,Entire home/apt,False,False,2,False,0,0,10.0,95.0,1,4.04,0.64,43.64,1.64,64.04,0.96
 Athens,108.97,Weekend,Entire home/apt,False,False,2,False,0,0,9.0,91.0,1,1.57,1.19,92.09,3.47,134.41,2.01
 Athens,81.08,Weekend,Entire home/apt,False,False,2,True,0,0,10.0,96.0,1,1.38,0.68,126.69,4.77,179.56,2.68
@@ -5236,7 +5233,6 @@ Athens,91.63,Weekend,Entire home/apt,False,False,3,False,0,0,9.0,90.0,1,1.31,0.8
 Athens,243.25,Weekend,Entire home/apt,False,False,4,False,0,1,10.0,100.0,2,1.08,0.85,114.37,4.31,172.57,2.58
 Athens,83.43,Weekend,Entire home/apt,False,False,4,False,0,0,10.0,100.0,2,3.38,0.45,53.04,2.0,78.57,1.17
 Athens,65.85,Weekend,Entire home/apt,False,False,2,False,1,0,9.0,98.0,1,2.36,0.05,66.06,2.49,111.75,1.67
-Athens,167.08,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,100.0,0,0.68,0.38,232.79,8.77,408.16,6.1
 Athens,167.08,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,100.0,0,0.68,0.38,232.79,8.77,408.16,6.1
 Athens,95.14,Weekend,Entire home/apt,False,False,4,False,0,0,10.0,100.0,1,2.82,1.36,57.77,2.18,83.93,1.25
 Athens,116.94,Weekend,Entire home/apt,False,False,4,False,0,0,10.0,100.0,1,3.35,0.32,53.82,2.03,79.88,1.19
@@ -5740,8 +5736,6 @@ Athens,133.34,Weekend,Entire home/apt,False,False,3,True,0,1,10.0,100.0,1,1.36,0
 Athens,194.74,Weekend,Entire home/apt,False,False,6,False,0,1,10.0,94.0,1,1.85,0.18,105.81,3.99,180.32,2.69
 Athens,229.42,Weekend,Entire home/apt,False,False,4,False,0,1,10.0,100.0,0,0.69,0.21,377.02,14.21,596.76,8.91
 Athens,112.48,Weekend,Entire home/apt,False,False,4,True,0,0,10.0,100.0,0,1.97,0.35,112.94,4.26,189.88,2.84
-Athens,121.62,Weekend,Entire home/apt,False,False,3,False,0,1,10.0,100.0,1,1.65,0.09,114.75,4.32,204.89,3.06
-Athens,194.74,Weekend,Entire home/apt,False,False,6,False,0,1,10.0,100.0,1,1.85,0.18,105.81,3.99,180.32,2.69
 Athens,194.74,Weekend,Entire home/apt,False,False,6,False,0,1,10.0,100.0,1,1.85,0.18,105.81,3.99,180.32,2.69
 Athens,194.74,Weekend,Entire home/apt,False,False,6,False,0,1,9.0,92.0,1,1.85,0.18,105.81,3.99,180.32,2.69
 Athens,156.3,Weekend,Entire home/apt,False,False,3,False,0,1,10.0,95.0,1,1.85,0.18,105.81,3.99,180.32,2.69
@@ -6301,7 +6295,6 @@ Athens,136.62,Weekend,Entire home/apt,False,False,4,False,0,0,10.0,100.0,2,0.87,
 Athens,159.82,Weekend,Entire home/apt,False,False,5,False,1,0,10.0,100.0,2,1.46,0.55,97.59,3.68,135.33,2.02
 Athens,148.34,Weekend,Entire home/apt,False,False,6,False,0,1,8.0,80.0,2,1.69,1.15,90.37,3.4,120.45,1.8
 Athens,68.43,Weekend,Entire home/apt,False,False,2,False,0,0,10.0,100.0,1,1.25,1.11,119.27,4.49,164.39,2.45
-Athens,159.82,Weekend,Entire home/apt,False,False,5,False,1,0,10.0,100.0,2,1.46,0.55,97.59,3.68,135.33,2.02
 Athens,113.42,Weekend,Entire home/apt,False,False,3,False,0,0,10.0,100.0,2,1.51,1.14,100.57,3.79,135.3,2.02
 Athens,308.16,Weekend,Entire home/apt,False,False,6,False,0,0,10.0,100.0,2,0.39,0.36,295.53,11.14,401.88,6.0
 Athens,405.64,Weekend,Entire home/apt,False,False,4,True,1,0,10.0,98.0,2,0.96,0.51,375.13,14.13,458.35,6.84
@@ -6529,7 +6522,6 @@ Athens,173.88,Weekend,Entire home/apt,False,False,4,True,1,0,10.0,96.0,1,1.37,0.
 Athens,121.62,Weekend,Entire home/apt,False,False,5,True,0,1,10.0,95.0,2,2.88,0.45,79.29,2.99,109.45,1.63
 Athens,158.65,Weekend,Entire home/apt,False,False,6,False,0,1,9.0,94.0,3,1.58,0.52,143.38,5.4,180.03,2.69
 Athens,138.96,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,95.0,1,1.85,0.3,114.37,4.31,141.49,2.11
-Athens,138.96,Weekend,Entire home/apt,False,False,3,True,0,1,10.0,100.0,1,1.85,0.3,114.37,4.31,141.49,2.11
 Athens,138.96,Weekend,Entire home/apt,False,False,3,True,0,1,10.0,100.0,1,1.85,0.3,114.38,4.31,141.49,2.11
 Athens,150.68,Weekend,Entire home/apt,False,False,4,True,0,1,10.0,94.0,2,1.91,0.22,124.43,4.69,155.72,2.33
 Athens,113.66,Weekend,Entire home/apt,False,False,4,True,1,0,10.0,100.0,1,2.52,0.4,95.85,3.61,133.2,1.99
@@ -6560,7 +6552,6 @@ Athens,113.66,Weekend,Entire home/apt,False,False,4,False,1,0,9.0,90.0,1,1.99,0.
 Athens,126.31,Weekend,Entire home/apt,False,False,2,True,0,1,9.0,87.0,1,2.94,0.54,76.9,2.9,106.75,1.59
 Athens,126.31,Weekend,Entire home/apt,False,False,2,True,0,1,9.0,100.0,1,2.94,0.54,76.9,2.9,106.75,1.59
 Athens,126.31,Weekend,Entire home/apt,False,False,3,True,0,1,10.0,100.0,1,2.94,0.54,76.9,2.9,106.75,1.59
-Athens,126.31,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,100.0,1,2.94,0.54,76.9,2.9,106.75,1.59
 Athens,133.34,Weekend,Entire home/apt,False,False,4,True,0,0,10.0,100.0,2,1.62,0.17,173.2,6.53,210.77,3.15
 Athens,90.46,Weekend,Entire home/apt,False,False,4,False,0,0,10.0,91.0,2,1.73,0.7,103.89,3.91,130.89,1.95
 Athens,141.78,Weekend,Entire home/apt,False,False,4,True,0,1,10.0,98.0,1,1.32,0.48,184.26,6.94,216.54,3.23
@@ -13588,7 +13579,6 @@ Budapest,137.0,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,99.0,0,2.51,0
 Budapest,137.0,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,95.0,0,2.51,0.44,109.19,6.51,193.25,14.63
 Budapest,137.0,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,95.0,0,2.51,0.44,109.18,6.51,193.25,14.63
 Budapest,137.0,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,96.0,0,2.51,0.44,109.18,6.51,193.25,14.63
-Budapest,137.0,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,95.0,0,2.51,0.44,109.18,6.51,193.25,14.63
 Budapest,144.05,Weekday,Entire home/apt,False,False,6,False,1,0,10.0,96.0,2,1.68,0.38,139.01,8.29,321.79,24.37
 Budapest,185.41,Weekday,Entire home/apt,False,False,6,True,0,1,9.0,90.0,2,1.48,0.25,200.79,11.97,401.33,30.39
 Budapest,137.0,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,96.0,0,2.51,0.44,109.19,6.51,193.25,14.63
@@ -14515,7 +14505,6 @@ Budapest,71.91,Weekday,Entire home/apt,False,False,3,False,0,0,9.0,96.0,1,2.37,0
 Budapest,325.47,Weekday,Entire home/apt,False,False,6,True,0,1,10.0,97.0,3,1.03,0.19,218.05,13.0,601.23,45.53
 Budapest,172.02,Weekday,Entire home/apt,False,False,6,False,0,1,10.0,98.0,1,0.45,0.22,300.97,17.95,847.17,64.15
 Budapest,151.1,Weekday,Private room,False,True,2,True,1,0,9.0,96.0,1,0.61,0.11,332.26,19.81,620.94,47.02
-Budapest,126.9,Weekday,Private room,False,True,2,True,0,1,10.0,100.0,1,0.15,0.09,316.77,18.89,778.52,58.95
 Budapest,126.9,Weekday,Private room,False,True,2,True,0,1,10.0,100.0,1,0.15,0.09,316.77,18.89,778.52,58.95
 Budapest,126.9,Weekday,Private room,False,True,2,True,0,1,10.0,95.0,1,0.15,0.09,316.78,18.89,778.54,58.95
 Budapest,240.17,Weekday,Entire home/apt,False,False,4,False,0,1,9.0,94.0,2,0.51,0.15,258.7,15.43,662.9,50.2
@@ -16507,7 +16496,6 @@ Budapest,254.97,Weekend,Entire home/apt,False,False,4,True,0,1,10.0,97.0,0,1.9,0
 Budapest,55.69,Weekend,Private room,False,True,3,False,1,0,8.0,89.0,1,1.86,0.23,134.41,8.02,285.93,25.0
 Budapest,116.09,Weekend,Entire home/apt,False,False,4,False,1,0,8.0,83.0,1,1.42,0.29,184.34,11.0,451.9,39.5
 Budapest,301.5,Weekend,Entire home/apt,False,False,4,False,0,0,9.0,96.0,1,2.09,0.37,129.85,7.75,236.07,20.64
-Budapest,137.47,Weekend,Entire home/apt,False,False,4,True,1,0,10.0,98.0,1,1.35,0.4,163.86,9.78,404.07,35.32
 Budapest,266.48,Weekend,Entire home/apt,False,False,5,False,1,0,9.0,92.0,2,0.93,0.35,252.19,15.05,567.27,49.59
 Budapest,137.94,Weekend,Entire home/apt,False,False,2,False,0,0,9.0,97.0,1,0.82,0.33,221.69,13.23,595.1,52.02
 Budapest,81.07,Weekend,Private room,False,True,6,False,1,0,9.0,91.0,1,1.53,0.34,152.66,9.11,352.74,30.84
@@ -16566,9 +16554,7 @@ Budapest,241.11,Weekend,Entire home/apt,False,False,4,False,1,0,10.0,96.0,1,3.63
 Budapest,136.77,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,99.0,0,2.51,0.44,109.18,6.52,193.25,16.89
 Budapest,136.77,Weekend,Entire home/apt,False,False,3,True,0,1,10.0,95.0,0,2.51,0.44,109.18,6.52,193.25,16.89
 Budapest,136.77,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,95.0,0,2.51,0.44,109.18,6.52,193.25,16.89
-Budapest,136.77,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,95.0,0,2.51,0.44,109.18,6.52,193.25,16.89
 Budapest,136.77,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,96.0,0,2.51,0.44,109.19,6.52,193.25,16.89
-Budapest,136.77,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,95.0,0,2.51,0.44,109.18,6.52,193.25,16.89
 Budapest,136.77,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,98.0,0,2.51,0.44,109.19,6.52,193.25,16.89
 Budapest,139.12,Weekend,Entire home/apt,False,False,2,False,0,0,4.0,70.0,1,1.72,0.12,162.76,9.71,367.03,32.08
 Budapest,136.77,Weekend,Entire home/apt,False,False,2,True,0,1,9.0,96.0,0,2.51,0.44,109.18,6.52,193.25,16.89
@@ -17672,7 +17658,6 @@ Lisbon,333.26,Weekday,Entire home/apt,False,False,2,True,1,0,10.0,92.0,1,0.93,0.
 Lisbon,105.53,Weekday,Private room,False,True,3,False,0,1,9.0,91.0,1,1.89,0.34,128.96,4.26,335.06,14.99
 Lisbon,176.36,Weekday,Private room,False,True,2,False,1,0,10.0,100.0,1,3.01,0.27,94.11,3.11,239.11,10.69
 Lisbon,292.45,Weekday,Entire home/apt,False,False,4,False,0,1,9.0,82.0,1,6.27,0.88,109.54,3.62,123.87,5.54
-Lisbon,176.36,Weekday,Private room,False,True,2,False,1,0,10.0,100.0,1,3.01,0.27,94.11,3.11,239.11,10.69
 Lisbon,291.74,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,96.0,1,0.27,0.24,527.62,17.42,1408.82,63.01
 Lisbon,136.02,Weekday,Private room,False,True,2,True,0,1,10.0,92.0,1,0.49,0.44,340.38,11.24,1365.65,61.08
 Lisbon,124.3,Weekday,Private room,False,True,2,True,0,1,10.0,94.0,1,0.49,0.44,340.37,11.24,1365.56,61.07
@@ -18461,7 +18446,6 @@ Lisbon,217.17,Weekday,Entire home/apt,False,False,6,False,0,1,9.0,86.0,2,2.53,1.
 Lisbon,191.37,Weekday,Private room,False,True,2,True,1,0,10.0,97.0,1,2.59,0.07,110.51,3.65,362.79,16.23
 Lisbon,186.91,Weekday,Private room,False,True,2,True,1,0,10.0,96.0,1,2.9,0.38,109.82,3.63,324.03,14.49
 Lisbon,182.22,Weekday,Private room,False,True,2,False,1,0,10.0,97.0,1,2.79,0.36,114.17,3.77,341.03,15.25
-Lisbon,131.1,Weekday,Private room,False,True,2,True,0,1,10.0,97.0,1,2.29,0.4,112.82,3.72,328.77,14.7
 Lisbon,131.1,Weekday,Private room,False,True,2,True,0,1,10.0,97.0,1,2.29,0.4,112.82,3.72,328.77,14.7
 Lisbon,138.37,Weekday,Private room,False,True,2,False,0,1,9.0,80.0,1,3.08,0.28,104.49,3.45,312.14,13.96
 Lisbon,128.28,Weekday,Private room,False,True,2,False,0,1,9.0,87.0,1,3.06,0.35,108.17,3.57,315.71,14.12
@@ -21541,7 +21525,6 @@ Lisbon,123.83,Weekend,Private room,False,True,2,False,0,1,9.0,91.0,1,3.1,0.24,98
 Lisbon,586.77,Weekend,Entire home/apt,False,False,5,False,0,1,7.0,75.0,2,2.41,0.22,111.63,3.68,415.44,23.35
 Lisbon,181.52,Weekend,Entire home/apt,False,False,3,True,0,0,10.0,97.0,1,8.31,0.76,62.75,2.07,96.85,5.44
 Lisbon,181.52,Weekend,Entire home/apt,False,False,3,False,1,0,9.0,84.0,1,1.22,0.38,194.7,6.42,462.08,25.97
-Lisbon,137.66,Weekend,Private room,False,True,3,False,0,1,10.0,92.0,1,1.16,0.3,200.89,6.63,483.43,27.17
 Lisbon,239.45,Weekend,Entire home/apt,False,False,4,False,1,0,10.0,99.0,1,7.84,0.39,73.31,2.42,107.22,6.03
 Lisbon,250.94,Weekend,Entire home/apt,False,False,2,False,0,1,10.0,94.0,0,0.27,0.27,459.95,15.17,1178.38,66.23
 Lisbon,297.37,Weekend,Entire home/apt,False,False,5,False,1,0,10.0,100.0,2,0.3,0.19,533.69,17.6,1127.41,63.36
@@ -22612,7 +22595,6 @@ Paris,339.5,Weekday,Entire home/apt,False,False,2,False,0,1,9.0,85.0,0,0.88,0.18
 Paris,357.44,Weekday,Entire home/apt,False,False,2,False,0,1,10.0,94.0,0,0.88,0.18,459.56,22.37,1114.34,65.48
 Paris,405.44,Weekday,Entire home/apt,False,False,4,False,0,0,7.0,91.0,2,1.78,0.14,511.23,24.89,1512.91,88.9
 Paris,339.5,Weekday,Entire home/apt,False,False,2,False,0,1,8.0,77.0,0,0.88,0.18,459.56,22.37,1114.33,65.48
-Paris,339.5,Weekday,Entire home/apt,False,False,2,False,0,1,10.0,100.0,0,0.88,0.18,459.56,22.37,1114.34,65.48
 Paris,339.5,Weekday,Entire home/apt,False,False,2,False,0,1,10.0,94.0,0,0.88,0.18,459.56,22.37,1114.34,65.48
 Paris,339.5,Weekday,Entire home/apt,False,False,2,False,0,1,9.0,90.0,0,0.88,0.18,459.56,22.37,1114.34,65.48
 Paris,451.81,Weekday,Entire home/apt,False,False,3,False,0,0,10.0,95.0,1,0.97,0.14,472.16,22.98,1155.7,67.91
@@ -23101,7 +23083,6 @@ Paris,669.68,Weekday,Entire home/apt,False,False,4,False,0,1,10.0,98.0,1,0.8,0.3
 Paris,962.11,Weekday,Entire home/apt,False,False,4,False,0,0,10.0,98.0,2,0.88,0.15,757.54,36.88,1449.44,85.17
 Paris,231.62,Weekday,Private room,False,True,2,False,0,1,10.0,89.0,1,2.18,0.11,318.56,15.51,743.11,43.66
 Paris,166.37,Weekday,Private room,False,True,2,False,0,1,10.0,88.0,1,2.18,0.11,318.56,15.51,743.1,43.66
-Paris,231.62,Weekday,Private room,False,True,2,False,0,1,10.0,92.0,1,2.18,0.11,318.56,15.51,743.11,43.66
 Paris,625.87,Weekday,Entire home/apt,False,False,3,False,0,0,10.0,99.0,1,0.28,0.34,592.51,28.84,1279.3,75.17
 Paris,900.6,Weekday,Entire home/apt,False,False,5,False,1,0,10.0,83.0,1,0.78,0.08,780.67,38.0,1437.01,84.44
 Paris,344.16,Weekday,Private room,False,True,2,False,0,0,9.0,88.0,0,1.81,0.32,337.51,16.43,726.9,42.71
@@ -23118,7 +23099,6 @@ Paris,507.74,Weekday,Entire home/apt,False,False,2,True,0,0,10.0,99.0,0,1.1,0.18
 Paris,336.01,Weekday,Entire home/apt,False,False,4,False,0,0,9.0,84.0,1,1.04,0.13,403.61,19.65,993.5,58.38
 Paris,556.2,Weekday,Entire home/apt,False,False,2,True,0,0,10.0,99.0,1,0.92,0.2,528.29,25.72,1021.66,60.03
 Paris,355.81,Weekday,Entire home/apt,False,False,4,False,1,0,9.0,89.0,1,1.16,0.05,392.06,19.09,1029.3,60.48
-Paris,339.5,Weekday,Entire home/apt,False,False,2,False,0,1,10.0,100.0,0,0.88,0.18,459.56,22.37,1114.34,65.48
 Paris,339.5,Weekday,Entire home/apt,False,False,2,False,0,1,7.0,70.0,0,0.88,0.18,459.56,22.37,1114.34,65.48
 Paris,527.08,Weekday,Private room,False,True,4,False,1,0,10.0,96.0,1,0.34,0.28,1123.19,54.68,1316.84,77.38
 Paris,2024.42,Weekday,Entire home/apt,False,False,6,True,0,0,10.0,99.0,2,0.58,0.21,637.24,31.02,1237.4,72.71
@@ -23782,7 +23762,6 @@ Paris,417.09,Weekday,Entire home/apt,False,False,4,False,0,0,10.0,94.0,1,1.94,0.
 Paris,374.22,Weekday,Private room,False,True,2,False,0,1,10.0,94.0,1,2.2,0.19,443.27,21.58,1200.84,70.56
 Paris,427.58,Weekday,Private room,False,True,2,False,0,1,10.0,100.0,1,2.2,0.19,443.27,21.58,1200.82,70.56
 Paris,262.61,Weekday,Private room,False,True,2,True,0,1,10.0,100.0,1,2.88,0.22,416.52,20.28,1081.99,63.58
-Paris,262.61,Weekday,Private room,False,True,2,True,0,1,10.0,100.0,1,2.88,0.22,416.52,20.28,1081.99,63.58
 Paris,166.37,Weekday,Private room,False,True,2,False,0,1,9.0,90.0,1,3.6,0.23,478.55,23.3,971.99,57.11
 Paris,122.1,Weekday,Private room,False,True,2,False,0,0,10.0,99.0,1,2.14,0.13,463.07,22.54,1217.34,71.53
 Paris,254.68,Weekday,Entire home/apt,False,False,3,False,0,0,10.0,93.0,1,3.15,0.16,268.88,13.09,646.48,37.99
@@ -24048,7 +24027,6 @@ Paris,217.87,Weekday,Entire home/apt,False,False,4,False,0,0,10.0,100.0,1,3.92,0
 Paris,706.96,Weekday,Entire home/apt,False,False,4,False,1,0,10.0,98.0,3,3.53,0.15,359.21,17.49,890.26,52.31
 Paris,556.2,Weekday,Entire home/apt,False,False,4,True,0,0,10.0,97.0,2,1.79,0.16,336.2,16.37,917.6,53.92
 Paris,210.88,Weekday,Entire home/apt,False,False,2,True,1,0,10.0,96.0,1,3.75,0.23,420.56,20.47,808.97,47.53
-Paris,370.72,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,98.0,1,2.95,0.14,418.23,20.36,1049.69,61.68
 Paris,260.51,Weekday,Entire home/apt,False,False,2,False,0,0,10.0,98.0,1,2.09,0.33,371.79,18.1,978.17,57.48
 Paris,183.15,Weekday,Private room,False,True,2,False,1,0,9.0,92.0,1,2.86,0.16,356.22,17.34,827.17,48.6
 Paris,1182.31,Weekday,Entire home/apt,False,False,5,False,0,0,10.0,95.0,3,2.23,0.25,366.24,17.83,973.73,57.22
@@ -25132,7 +25110,6 @@ Paris,897.1,Weekday,Entire home/apt,False,False,2,False,0,1,10.0,100.0,0,4.27,0.
 Paris,642.18,Weekday,Entire home/apt,False,False,2,False,0,1,10.0,100.0,0,4.27,0.18,321.63,15.66,690.26,40.56
 Paris,320.86,Weekday,Entire home/apt,False,False,4,False,0,1,9.0,94.0,0,4.47,0.16,346.35,16.86,698.41,41.04
 Paris,434.57,Weekday,Entire home/apt,False,False,2,False,1,0,9.0,93.0,1,6.5,0.13,207.51,10.1,389.78,22.9
-Paris,642.18,Weekday,Entire home/apt,False,False,2,False,0,1,10.0,100.0,0,4.27,0.18,321.63,15.66,690.26,40.56
 Paris,642.18,Weekday,Entire home/apt,False,False,2,False,0,1,10.0,90.0,0,4.27,0.18,321.63,15.66,690.26,40.56
 Paris,312.7,Weekday,Entire home/apt,False,False,2,False,0,0,10.0,97.0,1,6.96,0.1,187.14,9.11,358.59,21.07
 Paris,328.55,Weekday,Private room,False,True,2,False,0,1,9.0,90.0,1,5.76,0.45,268.43,13.07,476.35,27.99
@@ -25636,7 +25613,6 @@ Paris,660.13,Weekend,Entire home/apt,False,False,3,True,0,0,10.0,97.0,1,0.73,0.1
 Paris,560.63,Weekend,Entire home/apt,False,False,4,False,0,1,10.0,96.0,1,2.18,0.11,626.56,30.47,1257.18,58.0
 Paris,291.73,Weekend,Entire home/apt,False,False,2,False,1,0,9.0,90.0,1,1.47,0.11,424.35,20.63,1120.51,51.69
 Paris,465.56,Weekend,Entire home/apt,False,False,4,False,0,0,9.0,87.0,2,1.91,0.13,513.07,24.95,1363.43,62.9
-Paris,560.63,Weekend,Entire home/apt,False,False,4,False,0,1,10.0,96.0,1,2.18,0.11,626.56,30.47,1257.18,58.0
 Paris,212.04,Weekend,Private room,False,True,2,False,0,1,10.0,91.0,1,1.89,0.15,458.9,22.31,1297.03,59.83
 Paris,663.62,Weekend,Entire home/apt,False,False,6,False,0,1,9.0,85.0,1,1.79,0.12,618.99,30.1,1074.08,49.55
 Paris,212.04,Weekend,Private room,False,True,2,False,0,1,9.0,90.0,1,1.77,0.16,450.78,21.92,1215.79,56.09
@@ -26282,7 +26258,6 @@ Paris,271.93,Weekend,Entire home/apt,False,False,2,True,0,0,10.0,93.0,1,2.01,0.3
 Paris,962.11,Weekend,Entire home/apt,False,False,4,False,0,0,10.0,98.0,2,0.88,0.15,757.54,36.84,1449.42,66.87
 Paris,231.62,Weekend,Private room,False,True,2,False,0,1,10.0,89.0,1,2.18,0.11,318.56,15.49,743.1,34.28
 Paris,166.37,Weekend,Private room,False,True,2,False,0,1,10.0,88.0,1,2.18,0.11,318.56,15.49,743.11,34.28
-Paris,231.62,Weekend,Private room,False,True,2,False,0,1,10.0,92.0,1,2.18,0.11,318.56,15.49,743.1,34.28
 Paris,585.33,Weekend,Entire home/apt,False,False,3,False,0,0,10.0,99.0,1,0.28,0.34,592.51,28.81,1279.33,59.02
 Paris,900.6,Weekend,Entire home/apt,False,False,5,False,1,0,10.0,83.0,1,0.78,0.08,780.65,37.96,1436.99,66.29
 Paris,351.15,Weekend,Private room,False,True,2,False,0,0,9.0,88.0,0,1.81,0.32,337.51,16.41,726.9,33.53
@@ -26309,7 +26284,6 @@ Paris,301.29,Weekend,Entire home/apt,False,False,2,True,1,0,10.0,98.0,1,1.59,0.2
 Paris,529.64,Weekend,Entire home/apt,False,False,4,False,0,1,8.0,90.0,1,0.88,0.18,459.56,22.35,1114.34,51.41
 Paris,339.5,Weekend,Entire home/apt,False,False,2,False,0,1,10.0,100.0,0,0.88,0.18,459.56,22.35,1114.33,51.41
 Paris,339.5,Weekend,Entire home/apt,False,False,2,False,0,1,7.0,70.0,0,0.88,0.18,459.56,22.35,1114.34,51.41
-Paris,339.5,Weekend,Entire home/apt,False,False,2,False,0,1,10.0,100.0,0,0.88,0.18,459.56,22.35,1114.34,51.41
 Paris,527.08,Weekend,Private room,False,True,4,False,1,0,10.0,96.0,1,0.34,0.28,1123.21,54.62,1316.83,60.75
 Paris,339.5,Weekend,Entire home/apt,False,False,2,False,0,1,8.0,77.0,0,0.88,0.18,459.56,22.35,1114.34,51.41
 Paris,2070.79,Weekend,Entire home/apt,False,False,6,True,0,0,10.0,99.0,2,0.58,0.21,637.25,30.99,1237.32,57.08
@@ -26318,7 +26292,6 @@ Paris,469.29,Weekend,Entire home/apt,False,False,4,False,0,1,8.0,88.0,1,0.68,0.2
 Paris,413.6,Weekend,Entire home/apt,False,False,2,False,0,1,10.0,77.0,0,0.29,0.15,688.53,33.48,1600.18,73.82
 Paris,533.13,Weekend,Entire home/apt,False,False,4,False,0,1,8.0,72.0,1,0.26,0.12,697.14,33.9,1359.83,62.73
 Paris,413.6,Weekend,Entire home/apt,False,False,2,False,0,1,10.0,60.0,0,0.44,0.14,669.2,32.54,1357.68,62.63
-Paris,339.5,Weekend,Entire home/apt,False,False,2,False,0,1,10.0,100.0,0,0.88,0.18,459.56,22.35,1114.33,51.41
 Paris,231.62,Weekend,Entire home/apt,False,False,2,False,0,1,10.0,80.0,0,0.88,0.18,459.56,22.35,1114.34,51.41
 Paris,907.59,Weekend,Entire home/apt,False,False,5,False,1,0,10.0,90.0,1,0.69,0.15,835.59,40.63,1652.98,76.26
 Paris,588.59,Weekend,Entire home/apt,False,False,4,False,0,0,9.0,88.0,2,0.76,0.12,802.46,39.02,1600.71,73.84
@@ -29128,7 +29101,6 @@ Paris,176.39,Weekend,Private room,False,True,2,False,1,0,9.0,92.0,1,3.6,0.24,191
 Paris,127.46,Weekend,Private room,False,True,2,False,0,1,9.0,85.0,1,4.25,0.4,166.88,8.11,392.89,18.12
 Paris,330.41,Weekend,Entire home/apt,False,False,4,False,1,0,10.0,95.0,1,3.51,0.27,195.66,9.51,479.12,22.1
 Paris,127.46,Weekend,Private room,False,True,3,False,0,1,8.0,82.0,1,4.25,0.4,166.88,8.11,392.89,18.12
-Paris,127.46,Weekend,Private room,False,True,2,False,0,1,8.0,78.0,1,4.25,0.4,166.88,8.11,392.89,18.12
 Paris,127.46,Weekend,Private room,False,True,2,False,0,1,9.0,83.0,1,4.25,0.4,166.88,8.11,392.89,18.12
 Paris,242.8,Weekend,Entire home/apt,False,False,4,False,1,0,10.0,97.0,2,4.41,0.27,166.59,8.1,389.59,17.97
 Paris,190.14,Weekend,Entire home/apt,False,False,4,False,1,0,9.0,86.0,0,2.93,0.17,231.93,11.28,593.56,27.38
@@ -29262,7 +29234,6 @@ Rome,161.55,Weekday,Private room,False,True,3,False,0,1,10.0,92.0,0,0.67,0.11,64
 Rome,285.93,Weekday,Entire home/apt,False,False,4,False,0,1,10.0,95.0,0,2.32,0.53,627.74,13.91,2039.11,44.4
 Rome,245.72,Weekday,Private room,False,True,2,False,0,1,10.0,95.0,1,2.3,0.59,651.77,14.44,1609.01,35.03
 Rome,184.46,Weekday,Private room,False,True,2,False,0,1,10.0,94.0,1,1.9,1.06,1145.12,25.38,1854.08,40.37
-Rome,184.46,Weekday,Private room,False,True,2,False,0,1,10.0,94.0,1,1.9,1.06,1145.12,25.38,1854.08,40.37
 Rome,184.46,Weekday,Private room,False,True,2,False,0,1,10.0,93.0,1,1.9,1.06,1145.12,25.38,1854.1,40.37
 Rome,322.63,Weekday,Private room,False,True,4,False,0,1,10.0,100.0,1,1.9,1.06,1145.12,25.38,1854.07,40.37
 Rome,167.16,Weekday,Entire home/apt,False,False,5,False,1,0,9.0,89.0,2,2.75,1.56,739.14,16.38,2045.33,44.53
@@ -29295,7 +29266,6 @@ Rome,193.58,Weekday,Private room,False,True,2,False,0,0,8.0,71.0,1,0.34,0.39,422
 Rome,194.75,Weekday,Entire home/apt,False,False,3,False,0,0,9.0,89.0,1,2.5,0.11,227.81,5.05,644.22,14.03
 Rome,305.57,Weekday,Entire home/apt,False,False,6,False,0,1,9.0,88.0,2,2.51,1.52,799.79,17.72,2260.16,49.21
 Rome,201.53,Weekday,Entire home/apt,False,False,2,False,0,1,9.0,86.0,1,1.28,0.46,880.87,19.52,1301.49,28.34
-Rome,184.46,Weekday,Private room,False,True,2,False,0,1,10.0,94.0,1,1.9,1.06,1145.12,25.38,1854.08,40.37
 Rome,472.73,Weekday,Entire home/apt,False,False,6,False,0,1,10.0,97.0,2,1.47,0.42,604.55,13.4,1421.21,30.94
 Rome,83.0,Weekday,Private room,False,True,2,False,1,0,10.0,94.0,1,5.61,0.25,187.15,4.15,525.57,11.44
 Rome,288.27,Weekday,Entire home/apt,False,False,5,True,0,1,9.0,94.0,1,1.89,0.53,849.44,18.82,1264.03,27.52
@@ -30476,7 +30446,6 @@ Rome,161.55,Weekday,Entire home/apt,False,False,4,False,0,1,10.0,94.0,2,4.01,1.0
 Rome,165.99,Weekday,Private room,False,True,2,False,1,0,9.0,100.0,1,4.0,2.19,359.35,7.96,946.29,20.6
 Rome,208.54,Weekday,Entire home/apt,False,False,2,False,0,1,9.0,91.0,1,2.04,0.49,844.4,18.71,1875.93,40.84
 Rome,178.85,Weekday,Entire home/apt,False,False,4,False,0,0,10.0,100.0,1,4.04,0.26,164.61,3.65,469.07,10.21
-Rome,131.39,Weekday,Private room,False,True,2,True,0,1,10.0,98.0,1,1.56,0.42,483.49,10.71,941.24,20.49
 Rome,161.55,Weekday,Entire home/apt,False,False,2,False,0,1,9.0,86.0,1,3.74,1.24,351.1,7.78,986.58,21.48
 Rome,154.3,Weekday,Entire home/apt,False,False,2,False,0,1,8.0,85.0,0,1.32,0.31,1062.5,23.55,1930.77,42.04
 Rome,173.94,Weekday,Private room,False,True,2,False,0,1,9.0,92.0,1,1.42,0.46,601.63,13.33,1531.56,33.35
@@ -34494,7 +34463,6 @@ Rome,124.61,Weekend,Private room,False,True,3,False,0,1,10.0,100.0,1,0.45,0.24,4
 Rome,129.29,Weekend,Private room,False,True,2,False,0,0,10.0,100.0,1,2.99,0.91,189.87,4.21,533.24,11.62
 Rome,328.24,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,96.0,1,4.11,0.39,404.94,8.97,995.99,21.7
 Rome,253.66,Weekend,Private room,False,True,2,True,1,0,10.0,99.0,1,1.37,0.38,961.99,21.31,1497.42,32.63
-Rome,103.8,Weekend,Private room,False,True,2,False,1,0,10.0,93.0,1,4.54,1.78,267.98,5.94,719.26,15.67
 Rome,187.97,Weekend,Private room,False,True,2,True,0,0,10.0,99.0,1,1.23,0.62,346.55,7.68,942.99,20.55
 Rome,161.55,Weekend,Private room,False,True,3,True,1,0,10.0,94.0,1,5.77,0.52,181.43,4.02,491.6,10.71
 Rome,288.27,Weekend,Entire home/apt,False,False,4,False,1,0,10.0,99.0,1,2.19,0.97,1594.64,35.33,2286.42,49.82
@@ -35842,7 +35810,6 @@ Rome,182.59,Weekend,Entire home/apt,False,False,3,False,0,0,10.0,96.0,1,1.39,0.8
 Rome,182.59,Weekend,Private room,False,True,2,False,0,1,10.0,100.0,1,1.1,0.82,444.26,9.84,1194.42,26.02
 Rome,151.73,Weekend,Private room,False,True,3,False,0,0,10.0,95.0,1,3.41,1.1,305.42,6.77,739.31,16.11
 Rome,126.95,Weekend,Private room,False,True,2,False,1,0,8.0,100.0,1,3.2,0.35,338.03,7.49,835.0,18.19
-Rome,182.59,Weekend,Private room,False,True,2,False,0,1,10.0,100.0,1,1.1,0.82,444.26,9.84,1194.42,26.02
 Rome,76.45,Weekend,Private room,False,True,3,False,1,0,9.0,90.0,1,3.07,0.89,185.82,4.12,510.87,11.13
 Rome,196.39,Weekend,Entire home/apt,False,False,4,False,0,0,9.0,94.0,1,5.57,2.89,212.29,4.7,581.48,12.67
 Rome,427.61,Weekend,Entire home/apt,False,False,5,False,0,1,9.0,90.0,2,2.44,1.04,983.77,21.8,2124.91,46.3
@@ -39157,8 +39124,6 @@ Vienna,266.46,Weekday,Entire home/apt,False,False,2,True,0,0,10.0,98.0,1,3.43,0.
 Vienna,122.95,Weekday,Entire home/apt,False,False,3,False,0,0,9.0,94.0,1,5.38,0.62,79.56,5.7,77.92,1.86
 Vienna,185.59,Weekday,Entire home/apt,False,False,4,False,0,0,10.0,98.0,2,4.13,0.98,57.26,4.1,83.19,1.99
 Vienna,289.83,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,100.0,0,2.76,0.18,87.67,6.28,122.57,2.93
-Vienna,289.83,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,100.0,0,2.76,0.18,87.67,6.28,122.57,2.93
-Vienna,289.83,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,100.0,0,2.76,0.18,87.66,6.28,122.56,2.93
 Vienna,289.83,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,100.0,0,2.76,0.18,87.66,6.28,122.56,2.93
 Vienna,336.35,Weekday,Entire home/apt,False,False,4,True,0,1,10.0,94.0,1,2.76,0.18,87.67,6.28,122.57,2.93
 Vienna,336.35,Weekday,Entire home/apt,False,False,4,True,0,1,10.0,97.0,1,2.76,0.18,87.66,6.28,122.56,2.93
@@ -39242,7 +39207,6 @@ Vienna,278.38,Weekday,Entire home/apt,False,False,3,False,0,0,10.0,96.0,1,4.79,1
 Vienna,174.13,Weekday,Private room,False,True,6,False,1,0,10.0,98.0,2,4.41,0.38,85.45,6.12,95.58,2.28
 Vienna,169.23,Weekday,Private room,False,True,2,True,0,0,10.0,100.0,1,5.34,0.57,72.88,5.22,77.88,1.86
 Vienna,301.76,Weekday,Private room,False,True,2,True,0,0,10.0,91.0,1,4.27,0.35,59.55,4.26,80.63,1.93
-Vienna,394.32,Weekday,Entire home/apt,False,False,6,False,0,1,10.0,96.0,2,2.62,0.07,92.65,6.63,141.3,3.38
 Vienna,116.17,Weekday,Entire home/apt,False,False,4,False,0,0,10.0,97.0,1,4.12,0.92,58.98,4.22,88.3,2.11
 Vienna,319.75,Weekday,Entire home/apt,False,False,6,True,0,1,10.0,98.0,1,4.87,0.39,58.52,4.19,75.51,1.81
 Vienna,231.87,Weekday,Entire home/apt,False,False,2,True,0,1,10.0,100.0,1,3.15,0.89,97.34,6.97,133.18,3.18
@@ -40745,11 +40709,8 @@ Vienna,248.0,Weekend,Entire home/apt,False,False,5,False,1,0,10.0,94.0,2,4.76,0.
 Vienna,122.95,Weekend,Entire home/apt,False,False,3,False,0,0,9.0,94.0,1,5.38,0.62,79.56,5.7,77.92,1.88
 Vienna,231.87,Weekend,Entire home/apt,False,False,4,False,0,0,10.0,98.0,2,4.13,0.98,57.26,4.1,83.19,2.01
 Vienna,141.41,Weekend,Entire home/apt,False,False,3,False,0,0,9.0,93.0,1,3.07,0.4,93.91,6.72,126.65,3.06
-Vienna,289.83,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,100.0,0,2.76,0.18,87.67,6.28,122.57,2.96
-Vienna,289.83,Weekend,Entire home/apt,False,False,2,True,0,1,10.0,100.0,0,2.76,0.18,87.67,6.28,122.57,2.96
 Vienna,336.35,Weekend,Entire home/apt,False,False,4,True,0,1,10.0,94.0,1,2.76,0.18,87.67,6.28,122.57,2.96
 Vienna,336.35,Weekend,Entire home/apt,False,False,4,True,0,1,10.0,100.0,1,2.76,0.18,87.67,6.28,122.57,2.96
-Vienna,336.35,Weekend,Entire home/apt,False,False,4,True,0,1,10.0,100.0,1,2.76,0.18,87.66,6.28,122.56,2.96
 Vienna,336.35,Weekend,Entire home/apt,False,False,4,True,0,1,10.0,100.0,1,2.76,0.18,87.66,6.28,122.56,2.96
 Vienna,312.97,Weekend,Entire home/apt,False,False,3,False,0,0,9.0,95.0,1,4.98,0.34,66.7,4.78,83.26,2.01
 Vienna,233.27,Weekend,Entire home/apt,False,False,5,False,0,1,8.0,85.0,1,2.35,0.24,109.74,7.86,166.89,4.03
@@ -41473,7 +41434,6 @@ Vienna,367.44,Weekend,Entire home/apt,False,False,2,True,1,0,10.0,97.0,0,0.56,0.
 Vienna,252.67,Weekend,Entire home/apt,False,False,5,False,0,0,9.0,94.0,2,1.4,0.31,194.31,13.92,300.97,7.27
 Vienna,287.26,Weekend,Entire home/apt,False,False,2,False,0,1,9.0,87.0,1,1.05,0.11,250.47,17.94,355.52,8.59
 Vienna,431.48,Weekend,Entire home/apt,False,False,6,False,0,1,10.0,93.0,2,0.47,0.26,232.32,16.64,462.28,11.17
-Vienna,160.11,Weekend,Private room,False,True,2,True,1,0,10.0,97.0,1,1.17,0.31,155.78,11.16,250.14,6.05
 Vienna,272.54,Weekend,Entire home/apt,False,False,4,False,1,0,9.0,95.0,2,0.44,0.38,376.8,26.98,587.28,14.19
 Vienna,355.75,Weekend,Entire home/apt,False,False,4,False,1,0,10.0,98.0,2,0.46,0.39,381.13,27.29,608.22,14.7
 Vienna,272.54,Weekend,Entire home/apt,False,False,5,False,1,0,8.0,91.0,2,0.57,0.11,371.19,26.58,453.63,10.96
