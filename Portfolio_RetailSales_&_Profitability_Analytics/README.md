@@ -81,4 +81,4 @@ Berdasarkan temuan di atas, rekomendasi untuk kuartal berikutnya adalah:
 Jika Anda memiliki pertanyaan, masukan, atau tawaran kolaborasi, jangan ragu untuk menghubungi saya:
 - **Email:** diki.naufal29dev@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/dikinaufal/
-- **Portfolio:** Menyusul! 😁🙏
+- **Portfolio:** Menyusul! 😁
