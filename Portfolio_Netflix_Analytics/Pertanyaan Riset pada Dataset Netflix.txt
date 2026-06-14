@@ -1,0 +1,20 @@
+Pertanyaan Riset pada Dataset Netflix 
+
+1. Film apa yang paling banyak jumlah suara?
+Top 10 Film dengan Jumlah Suara (Keterlibatan Penonton) Terbanyak. 
+
+2. Berapa rata-rata suara tertinggi pada film?
+Top 10 Film dengan Rating (Rata-rata Suara) Terbaik.
+
+3. Film apa yang mempunyai popularitas paling tinggi?
+10 Film Paling Populer yang Mendominasi Tren.
+
+4. Bahasa yang sering digunakan pada film apa saja? (Count)
+Distribusi Film berdasarkan Bahasa Asli.
+
+5. Bagaimana tren produktivitas industri perfilman dari tahun ke tahun? Apakah ada lonjakan rilis film di dekade tertentu?
+
+6.Genre apa yang paling banyak diproduksi, dan genre apa yang sebenarnya paling disukai (Rating tertinggi) oleh penonton?
+
+7. Apakah film yang sangat populer selalu mendapatkan rating rata-rata yang tinggi?
+
