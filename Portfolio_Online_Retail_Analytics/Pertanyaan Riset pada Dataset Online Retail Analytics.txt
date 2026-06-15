@@ -1,0 +1,13 @@
+Pertanyaan Riset pada Dataset Online Retail Analytics
+
+1. Dari negara mana kah jumlah produksi terbanyak? 
+Top 10 negara dengan jumlah produksi terbanyak?
+
+2. Top 10 brand dengan jumlah pembelian terbanyak?
+Top 10 brand dengan jumlah terbanyak? 
+
+3. Top 10 nama produk dengan jumlah terbanyak?
+
+4. Berapa harga rata-rata produk setiap brand?
+
+5. Bagaimana tren produktivitas produk dari tahun ke tahun? Apakah mengalami kenaikan, penurunan, datar, atau fluktuatif?  
