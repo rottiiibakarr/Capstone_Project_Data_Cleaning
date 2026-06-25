@@ -1,31 +1,3 @@
-Invoice_ID|Salesperson|Store_Location|Product_Name|Units_Sold|Revenue|Cost_per_Unit|Transaction_Date
-INV-1001 | Bima | Jakarta | MU Home Jersey 24/25 | 5 pcs | Rp 7.500.000 | 1 Juta | 01-Mar-2024
-inv-1002 |  Siti A. | BANDUNG | Arsenal Away Jersey | 3 unit | 4,5 Juta | 1000K | 2024/03/02
-INV-1003 | NaN | surabaya | Paris SG Home 24/25 | -2 | Rp 3.000.000 | IDR 1.000.000 | 03/03/2024
-INV-1001 | Bima | Jakarta | MU Home Jersey 24/25 | 5 pcs | Rp 7.500.000 | 1 Juta | 01-Mar-2024
-INV-1004 | Andi T. |  jakarta  | Bayern Munich Third | 10 | 15 Juta | 1 Juta | March 04 2024
-inv-1005 | dewi p. | Bandung | Ajax Amsterdam Away | 2 pcs | Rp 3.000.000 | 1000k | 2024-03-05
-INV-1006 | Bima | SURABAYA | RM Home Jersey 24/25 | NaN | 6 Juta | Rp 1.000.000 | 06-Mar-2024
-INV-1007 | Siti A. | Jakarta | Man Utd Home 24/25 | 4 | Rp 6.000.000 | 1 Juta | 2024/03/07
-inv-1008 | andi t. | bandung | FC Barcelona Home | 1 | 1.5 Juta | IDR 1.000.000 | 08/03/2024
-INV-1009 | Bima | Jakarta | PSG Home Jersey 24/25 | 7 unit | 10,5 Juta | 1000K | 09-Mar-2024
-INV-1010 | Dewi P. | Surabaya | AC Milan Home 24/25 | -1 | Rp 1.500.000 | 1 Juta | March 10 2024
-INV-1011 | Siti A. | JAKARTA | Juventus Away 24/25 | 3 | 4.5 Juta | Rp 1.000.000 | 11-03-2024
-inv-1012 | NaN | bandung | Arsenal Away Jersey | 2 pcs | Rp 3.000.000 | IDR 1.000.000 | 2024-03-12
-INV-1013 | Bima | Surabaya | Inter Milan Home | 5 | 7,5 Juta | 1 Juta | 13/03/2024
-INV-1014 | Andi T. | Jakarta | Real Madrid Home 24/25 | 8 unit | Rp 12.000.000 | 1000k | 14-Mar-2024
-inv-1015 | dewi p. | BANDUNG | Bayern Munchen Third | NaN | 4.5 Juta | Rp 1.000.000 | 2024/03/15
-INV-1016 | Siti A. | surabaya | Liverpool Home 24/25 | 4 pcs | Rp 6.000.000 | 1 Juta | 16-03-2024
-INV-1017 | Bima | JAKARTA | Chelsea Away 24/25 | 6 | 9 Juta | IDR 1.000.000 | March 17 2024
-inv-1018 | Andi T. | Bandung | Ajax Away Jersey | -3 | Rp 4.500.000 | 1000K | 18-Mar-2024
-INV-1019 | Dewi P. | Surabaya | MU Home Jersey 24/25 | 2 unit | 3 Juta | Rp 1.000.000 | 2024-03-19
-INV-1020 | Siti A. | Jakarta | Paris Saint Germain Home | 10 | Rp 15.000.000 | 1 Juta | 20/03/2024
-INV-1014 | Andi T. | Jakarta | Real Madrid Home 24/25 | 8 unit | Rp 12.000.000 | 1000k | 14-Mar-2024
-INV-1021 | NaN | Bandung | AC Milan Home 24/25 | 5 | Rp 7.500.000 | 1 Juta | 2024-03-21
-inv-1022 | Bima | jakarta | Liverpool Home 24/25 | 1 | 1,5 Juta | 1000K | 22/03/2024
-INV-1023 | dewi p. | SURABAYA | Manchester Utd Home | 4 pcs | 6 Juta | IDR 1.000.000 | March 23 2024
-INV-1024 | Andi T. |  Bandung  | Juventus Away 24/25 | NaN | Rp 3.000.000 | 1 Juta | 24-03-2024
-inv-1025 | Siti A. | jakarta | Inter Milan Home | 3 | Rp 4.500.000 | Rp 1.000.000 | 2024/03/25
-INV-1026 | Bima | Surabaya | Chelsea Away 24/25 | -2 | 3 Juta | 1000k | 26-03-2024
-INV-1027 | andi t. | Jakarta | RM Third Jersey 24/25 | 6 unit | Rp 9.000.000 | 1 Juta | 27-Mar-2024
-inv-1028 | Dewi P. | BANDUNG | Barca Home Jersey | 5 | 7.5 Juta | IDR 1.000.000 | March 28 2024
+version https://git-lfs.github.com/spec/v1
+oid sha256:41e2b5ceea536fb9fd17213150de692c0738a862d16b10a445a4a0fa4c31285c
+size 2963
