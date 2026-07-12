@@ -1,0 +1,29 @@
+Pertanyaan Riset pada Dataset DataCo Supply Chain Analytics
+
+1. Market yang paling banyak peminatnya dan yang paling menjanjikan untuk bisnis? [Sudah]
+
+2. Berapa jumlah persentase metode pembayaran yang paling banyak digunakan pada saat transaksi? [Sudah]
+
+3. Negara dengan jumlah pelanggan terbanyak siapa?
+
+4. Berapa rata-rata Waktu yang digunakan untuk pengiriman pada negara pemesan?
+
+5. Berapa jumlah persentase pesanan setiap wilayah/kota pada suatu negara?
+
+6. Apakah pelanggan yang membayar lebih untuk layanan "First Class" atau "Same Day" benar-benar mendapatkan tingkat risiko keterlambatan yang lebih rendah dibandingkan "Standard Class"?
+
+7. Metode pengiriman (Shipping Mode) mana yang paling sering menyumbang angka 1 (terlambat)?
+
+8. Di wilayah (Order Region) atau negara bagian (Order State) mana persentase risiko keterlambatan pengiriman paling tinggi terjadi?
+
+9. Berapa jumlah persentase segmen pelanggan yang paling banyak melakukan transaksi? [Sudah]
+
+10. Market yang mencatatkan laba per pesanan paling tinggi berdasarkan tahun siapa? [Sudah]
+
+11. Tren volume pada transaksi penjualan dari waktu ke waktu apa? Apakah tren naik, turun, atau mendatar? [Sudah]
+
+12. Top 10 nama produk dengan rata-rata harga tertinggi? [Sudah]
+
+13. Top 10 produk yang paling laris [Sudah]
+
+14. 
