@@ -1,29 +1,38 @@
 Pertanyaan Riset pada Dataset DataCo Supply Chain Analytics
 
-1. Market yang paling banyak peminatnya dan yang paling menjanjikan untuk bisnis? [Sudah]
+1. Market mana yang memiliki permintaan tertinggi dan memberikan prospek keuntungan bisnis paling menjanjikan? [Sudah]
 
-2. Berapa jumlah persentase metode pembayaran yang paling banyak digunakan pada saat transaksi? [Sudah]
+2. Bagaimana proporsi penggunaan metode pembayaran (Type) dari seluruh transaksi? [Sudah]
 
-3. Negara dengan jumlah pelanggan terbanyak siapa?
+3. Negara mana yang menyumbang jumlah pelanggan (clean_DataCOSupply_Chain) terbanyak? [Sudah]
 
-4. Berapa rata-rata Waktu yang digunakan untuk pengiriman pada negara pemesan?
+4. Berapa rata-rata waktu riil yang dibutuhkan untuk pengiriman (Days for shipping real) ke berbagai negara pemesan?
 
-5. Berapa jumlah persentase pesanan setiap wilayah/kota pada suatu negara?
+5. Bagaimana distribusi persentase pesanan di setiap wilayah atau kota pada negara utama?
 
-6. Apakah pelanggan yang membayar lebih untuk layanan "First Class" atau "Same Day" benar-benar mendapatkan tingkat risiko keterlambatan yang lebih rendah dibandingkan "Standard Class"?
+6. Apakah pelanggan yang membayar mahal untuk layanan pengiriman cepat (First Class / Same Day) secara aktual mendapatkan risiko keterlambatan yang lebih rendah dibandingkan layanan reguler (Standard Class)?
 
-7. Metode pengiriman (Shipping Mode) mana yang paling sering menyumbang angka 1 (terlambat)?
+7. Metode pengiriman (Shipping Mode) mana yang menjadi penyumbang angka risiko keterlambatan (Late_delivery_risk) tertinggi?
 
-8. Di wilayah (Order Region) atau negara bagian (Order State) mana persentase risiko keterlambatan pengiriman paling tinggi terjadi?
+8. Di wilayah (Order Region) atau negara bagian mana persentase risiko keterlambatan pengiriman ini paling sering terjadi?
 
-9. Berapa jumlah persentase segmen pelanggan yang paling banyak melakukan transaksi? [Sudah]
+9. Segmen pelanggan (Customer Segment) mana yang paling mendominasi total transaksi? [Sudah]
 
-10. Market yang mencatatkan laba per pesanan paling tinggi berdasarkan tahun siapa? [Sudah]
+10. Market yang mencatatkan laba per pesanan paling tinggi berdasarkan tahun siapa? / [Sudah]
+Market mana yang mencatatkan margin laba per pesanan (Benefit per order) tertinggi setiap tahunnya?
 
-11. Tren volume pada transaksi penjualan dari waktu ke waktu apa? Apakah tren naik, turun, atau mendatar? [Sudah]
+11. Bagaimana tren volume transaksi penjualan dari waktu ke waktu (naik, turun, atau stagnan)? [Sudah]
 
-12. Top 10 nama produk dengan rata-rata harga tertinggi? [Sudah]
+12. Apa saja Top 10 produk premium dengan rata-rata harga jual (Product Price) tertinggi? [Sudah]
 
-13. Top 10 produk yang paling laris [Sudah]
+13. Apa saja Top 10 produk (Product Name) paling laris berdasarkan volume kuantitas? [Sudah]
 
-14. 
+14. Khusus di pasar Amerika Serikat, negara bagian pelanggan (Customer State) mana yang mencatatkan volume transaksi tertinggi? [Sudah]
+
+15. Metode pembayaran (Type) atau wilayah (Order Region) mana yang paling rentan terhadap transaksi yang dicurigai sebagai kecurangan (Suspected Fraud)?
+
+16. Apakah pemberian diskon yang tinggi berbanding lurus dengan peningkatan volume penjualan, atau justru merusak rasio profitabilitas (Profit Ratio) secara signifikan?
+
+17. Departemen produk (Department Name) mana yang menghasilkan total penjualan tertinggi, dan apakah departemen tersebut juga memberikan profitabilitas yang sama tingginya?
+
+18. 
