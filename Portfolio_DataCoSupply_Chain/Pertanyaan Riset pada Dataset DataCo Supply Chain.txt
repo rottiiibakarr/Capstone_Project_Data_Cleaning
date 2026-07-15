@@ -6,13 +6,13 @@ Pertanyaan Riset pada Dataset DataCo Supply Chain Analytics
 
 3. Negara mana yang menyumbang jumlah pelanggan (clean_DataCOSupply_Chain) terbanyak? [Sudah]
 
-4. Berapa rata-rata waktu riil yang dibutuhkan untuk pengiriman (Days for shipping real) ke berbagai negara pemesan?
+4. Berapa rata-rata waktu riil yang dibutuhkan untuk pengiriman (Days for shipping real) ke berbagai negara pemesan? [Sudah]
 
-5. Bagaimana distribusi persentase pesanan di setiap wilayah atau kota pada negara utama?
+5. Bagaimana distribusi persentase pesanan di setiap wilayah atau kota pada negara utama? [Sudah]
 
-6. Apakah pelanggan yang membayar mahal untuk layanan pengiriman cepat (First Class / Same Day) secara aktual mendapatkan risiko keterlambatan yang lebih rendah dibandingkan layanan reguler (Standard Class)?
+6. Apakah pelanggan yang membayar mahal untuk layanan pengiriman cepat (First Class / Same Day) secara aktual mendapatkan risiko keterlambatan yang lebih rendah dibandingkan layanan reguler (Standard Class)? [Sudah]
 
-7. Metode pengiriman (Shipping Mode) mana yang menjadi penyumbang angka risiko keterlambatan (Late_delivery_risk) tertinggi?
+7. Metode pengiriman (Shipping Mode) mana yang menjadi penyumbang angka risiko keterlambatan (Late_delivery_risk) tertinggi? [Sudah]
 
 8. Di wilayah (Order Region) atau negara bagian mana persentase risiko keterlambatan pengiriman ini paling sering terjadi?
 
@@ -29,7 +29,7 @@ Market mana yang mencatatkan margin laba per pesanan (Benefit per order) terting
 
 14. Khusus di pasar Amerika Serikat, negara bagian pelanggan (Customer State) mana yang mencatatkan volume transaksi tertinggi? [Sudah]
 
-15. Metode pembayaran (Type) atau wilayah (Order Region) mana yang paling rentan terhadap transaksi yang dicurigai sebagai kecurangan (Suspected Fraud)?
+15. Metode pembayaran (Type) atau wilayah (Order Region) mana yang paling rentan terhadap transaksi yang dicurigai sebagai kecurangan (Suspected Fraud)? [Sudah]
 
 16. Apakah pemberian diskon yang tinggi berbanding lurus dengan peningkatan volume penjualan, atau justru merusak rasio profitabilitas (Profit Ratio) secara signifikan?
 
