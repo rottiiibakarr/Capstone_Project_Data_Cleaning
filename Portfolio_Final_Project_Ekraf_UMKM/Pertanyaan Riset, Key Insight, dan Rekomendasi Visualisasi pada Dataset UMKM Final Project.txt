@@ -1,0 +1,57 @@
+Key Insight
+
+1. Kesenjangan Adopsi Digital: UMKM pada kategori "Elite" mencetak skor Digital Adoption rata-rata 5,77 dengan profit margin 27,44%, berbanding terbalik dengan kategori "Critical" yang kesulitan dengan skor 1,70.
+
+2. Efisiensi Menentukan Keberhasilan: Ditemukan korelasi negatif ekstrem (-0,97) antara Burn Rate Ratio dan profit margin, membuktikan bahwa kegagalan mengontrol pembakaran modal pasti berujung pada kerugian.
+
+3. Kepuasan Berbanding Lurus dengan Laba: Avg Historical Rating berkorelasi positif (0,78) terhadap persentase profit, menegaskan bahwa reputasi dan ulasan pelanggan merupakan motor utama stabilitas laba.
+
+4. Tekanan Persaingan Fisik: Metrik Location Competitiveness memiliki korelasi negatif (-0,48) terhadap laba, sehingga UMKM di area kompetitif membutuhkan adopsi digital agar margin tidak terus tergerus.
+
+5. Inkonsistensi Merusak Laba: Volatilitas ulasan (Review_Volatility) memiliki korelasi negatif yang sangat kuat (-0.56) terhadap margin laba bersih. Pelayanan yang tidak stabil (kadang bagus, kadang buruk) jauh lebih mematikan bagi profitabilitas dibandingkan pelayanan yang stabil di tingkat standar.
+
+6. Senioritas Bukan Jaminan: Lama bisnis beroperasi (Business_Tenure_Months) nyaris tidak memiliki korelasi (hanya 0.10) terhadap laba bersih. UMKM pemain lama yang tidak beradaptasi sama rentannya dengan bisnis baru, mengukuhkan bahwa inovasi jauh lebih krusial daripada umur bisnis.
+
+7. Omzet Besar Tidak Sama dengan Untung Besar: Pendapatan bulanan (Monthly_Revenue) hanya berkorelasi moderat (0.31) terhadap persentase laba bersih. Skala omzet tidak mampu menyelamatkan margin jika pembakaran modal (Burn_Rate_Ratio, korelasi -0.98) tidak dikendalikan secara ketat.
+
+
+Pertanyaan Riset 
+
+1. Apakah tingkat pembelian berulang (Repeat Order Rate) yang tinggi mampu mengompensasi dampak negatif dari ketatnya persaingan lokasi (Location Competitiveness) terhadap margin laba bersih?
+
+2. Bagaimana keterlambatan operasional saat jam sibuk (Peak Hour Latency) memicu lonjakan volatilitas ulasan (Review Volatility), terutama pada UMKM di kelas "Struggling" dan "Critical"?
+
+3. Apakah masa operasi bisnis (Business Tenure Months) berkorelasi positif dengan kedewasaan digital (Digital Adoption Score), atau justru UMKM muda lebih agresif menekan Burn Rate Ratio berkat teknologi? 
+
+4. Sejauh mana skor sentimen ulasan (Sentiment Score) dapat digunakan sebagai indikator awal untuk memprediksi probabilitas UMKM turun kelas (misalnya dari "Growth" ke "Struggling")?
+
+5. Sejauh mana pemanfaatan teknologi digital dan kontrol efisiensi operasional memengaruhi margin laba bersih serta penentuan kelas performa UMKM?   
+
+6. Bagaimana interaksi simultan antara kepadatan antrean (Peak_Hour_Latency) dan ketatnya persaingan wilayah (Location_Competitiveness) dalam menggerus tingkat pembelian berulang (Repeat_Order_Rate)?
+
+7. Apakah omzet kotor (Monthly_Revenue) yang tinggi sering kali memberikan ilusi keamanan pada metrik bisnis, padahal tingkat pembakaran modal (Burn_Rate_Ratio) berada di ambang batas kritis?
+
+8. Sejauh mana inkonsistensi pelayanan harian, yang diukur melalui Review_Volatility, berperan sebagai prediktor utama kegagalan UMKM dibandingkan metrik rata-rata kepuasan (Avg_Historical_Rating)?
+
+
+Rekomendasi Kolom Visualisasi Tableau
+
+1. Pemanfaatan Teknologi: Gunakan Digital_Adoption_Score dan Class untuk mengukur tingkat pemanfaatan teknologi digital oleh UMKM pada tiap jenjang performa bisnis.   
+
+2. Kinerja Finansial: Tarik kolom Net_Profit_Margin (%) dan Burn_Rate_Ratio untuk menampilkan hasil analisis tren profitabilitas dan efisiensi modal secara metrik.   
+
+3. Respons Pasar: Kombinasikan Avg_Historical_Rating dan Location_Competitiveness untuk mengidentifikasi bagaimana kepuasan pelanggan berdampak di tengah padatnya persaingan lokasi.
+
+4. Loyalitas & Retensi Pelanggan: Gunakan Repeat_Order_Rate (%) dan Transaction_Count dalam scatter plot untuk mengukur kontribusi pelanggan tetap terhadap total volume transaksi harian.
+
+5. Analisis Sentimen Bisnis: Tarik Sentiment_Score (sumbu X) dan Review_Volatility (sumbu Y) dipisahkan oleh warna dari kolom Class untuk memetakan seberapa fluktuatif emosi pelanggan pada bisnis kategori Elite hingga Critical.
+
+6. Dampak Kendala Operasional: Kombinasikan Peak_Hour_Latency (sebagai dimensi kategori) dengan Avg_Historical_Rating (rata-rata) pada bar chart untuk mengevaluasi penurunan rating akibat hambatan layanan saat jam sibuk.
+
+7. Korelasi Umur Bisnis dan Inovasi: Bandingkan metrik Business_Tenure_Months dengan Digital_Adoption_Score untuk memvisualisasikan apakah bisnis yang sudah lama berdiri cenderung tertinggal dalam digitalisasi dibandingkan pemain baru.
+
+8. Peta Kuadran Kinerja (Quadrant Chart): Gunakan scatter plot dengan Monthly_Revenue di sumbu X dan Net_Profit_Margin (%) di sumbu Y, ditambahkan garis referensi median untuk membagi UMKM ke dalam 4 kuadran (pemimpin pasar, margin tinggi-omzet rendah, omzet tinggi-margin rendah, dan berisiko).
+
+9. Analisis Anomali Laba (Outlier Analysis): Buat boxplot ganda membandingkan Net_Profit_Margin (%) asli dengan Capped_Net_Profit_Margin berdasarkan kategori Class untuk mendeteksi UMKM dengan lonjakan laba ekstrem yang mungkin menutupi masalah operasional.
+
+10. Visualisasi Sentimen Teks (Word Cloud): Manfaatkan kolom Review_Text yang difilter menggunakan parameter Sentiment_Score (positif/negatif) untuk memetakan kata kunci dominan (seperti "cepat", "lambat", "kosong") pada bisnis berkinerja unggul versus bisnis kritis.
