@@ -36,22 +36,22 @@ Pertanyaan Riset
 
 Rekomendasi Kolom Visualisasi Tableau
 
-1. Pemanfaatan Teknologi (Bar Chart / Boxplot): Gunakan Digital_Adoption_Score dan Class untuk mengukur tingkat pemanfaatan teknologi digital oleh UMKM pada tiap jenjang performa bisnis.   
+1. Pemanfaatan Teknologi (Bar Chart / Boxplot): Gunakan Digital_Adoption_Score [AVG] dan Class [Dimension] untuk mengukur tingkat pemanfaatan teknologi digital oleh UMKM pada tiap jenjang performa bisnis.   
 
-2. Kinerja Finansial (Scatter Plot): Tarik kolom Net_Profit_Margin (%) dan Burn_Rate_Ratio untuk menampilkan hasil analisis tren profitabilitas dan efisiensi modal secara metrik.   
+2. Kinerja Finansial (Scatter Plot): Tarik kolom Net_Profit_Margin (%) [AVG] dan Burn_Rate_Ratio [AVG] untuk menampilkan hasil analisis tren profitabilitas dan efisiensi modal secara metrik.   
 
-3. Respons Pasar (Heatmap / Scatter Plot): Kombinasikan Avg_Historical_Rating dan Location_Competitiveness untuk mengidentifikasi bagaimana kepuasan pelanggan berdampak di tengah padatnya persaingan lokasi.
+3. Respons Pasar (Heatmap / Scatter Plot): Kombinasikan Avg_Historical_Rating [AVG] dan Location_Competitiveness [AVG] untuk mengidentifikasi bagaimana kepuasan pelanggan berdampak di tengah padatnya persaingan lokasi.
 
-4. Loyalitas & Retensi Pelanggan (Scatter Plot): Gunakan Repeat_Order_Rate (%) dan Transaction_Count dalam scatter plot untuk mengukur kontribusi pelanggan tetap terhadap total volume transaksi harian.
+4. Loyalitas & Retensi Pelanggan (Scatter Plot): Gunakan Repeat_Order_Rate (%) [AVG] dan Transaction_Count [SUM atau AVG] dalam scatter plot untuk mengukur kontribusi pelanggan tetap terhadap total volume transaksi harian.
 
-5. Analisis Sentimen Bisnis (Scatter Plot dengan pemisah Warna): Tarik Sentiment_Score (sumbu X) dan Review_Volatility (sumbu Y) dipisahkan oleh warna dari kolom Class untuk memetakan seberapa fluktuatif emosi pelanggan pada bisnis kategori Elite hingga Critical.
+5. Analisis Sentimen Bisnis (Scatter Plot dengan pemisah Warna): Tarik Sentiment_Score [AVG] (sumbu X) dan Review_Volatility [AVG] (sumbu Y) dipisahkan oleh warna dari kolom Class untuk memetakan seberapa fluktuatif emosi pelanggan pada bisnis kategori Elite hingga Critical.
 
-6. Dampak Kendala Operasional (Bar Chart): Kombinasikan Peak_Hour_Latency (sebagai dimensi kategori) dengan Avg_Historical_Rating (rata-rata) pada bar chart untuk mengevaluasi penurunan rating akibat hambatan layanan saat jam sibuk.
+6. Dampak Kendala Operasional (Bar Chart): Kombinasikan Peak_Hour_Latency [Dimension] (sebagai dimensi kategori) dengan Avg_Historical_Rating [AVG] (rata-rata) pada bar chart untuk mengevaluasi penurunan rating akibat hambatan layanan saat jam sibuk.
 
-7. Korelasi Umur Bisnis dan Inovasi (Scatter Plot dengan Trendline): Bandingkan metrik Business_Tenure_Months dengan Digital_Adoption_Score untuk memvisualisasikan apakah bisnis yang sudah lama berdiri cenderung tertinggal dalam digitalisasi dibandingkan pemain baru.
+7. Korelasi Umur Bisnis dan Inovasi (Scatter Plot dengan Trendline): Bandingkan metrik Business_Tenure_Months [AVG] dengan Digital_Adoption_Score [AVG] untuk memvisualisasikan apakah bisnis yang sudah lama berdiri cenderung tertinggal dalam digitalisasi dibandingkan pemain baru.
 
-8. Peta Kuadran Kinerja (Quadrant Chart / Scatter Plot dengan Garis Referensi): Gunakan scatter plot dengan Monthly_Revenue di sumbu X dan Net_Profit_Margin (%) di sumbu Y, ditambahkan garis referensi median untuk membagi UMKM ke dalam 4 kuadran (pemimpin pasar, margin tinggi-omzet rendah, omzet tinggi-margin rendah, dan berisiko).
+8. Peta Kuadran Kinerja (Quadrant Chart / Scatter Plot dengan Garis Referensi): Gunakan scatter plot dengan Monthly_Revenue [SUM atau AVG] di sumbu X dan Net_Profit_Margin [AVG] (%) di sumbu Y, ditambahkan garis referensi median untuk membagi UMKM ke dalam 4 kuadran (pemimpin pasar, margin tinggi-omzet rendah, omzet tinggi-margin rendah, dan berisiko).
 
-9. Analisis Anomali Laba (Boxplot / Diagram Kotak): Buat boxplot ganda membandingkan Net_Profit_Margin (%) asli dengan Capped_Net_Profit_Margin berdasarkan kategori Class untuk mendeteksi UMKM dengan lonjakan laba ekstrem yang mungkin menutupi masalah operasional.
+9. Analisis Anomali Laba (Boxplot / Diagram Kotak): Buat boxplot ganda membandingkan Net_Profit_Margin [Tidak Agregasi] (%) asli dengan Capped_Net_Profit_Margin [Tidak Agregasi] berdasarkan kategori Class [Dimension] untuk mendeteksi UMKM dengan lonjakan laba ekstrem yang mungkin menutupi masalah operasional.
 
-10. Visualisasi Sentimen Teks (Word Cloud): Manfaatkan kolom Review_Text yang difilter menggunakan parameter Sentiment_Score (positif/negatif) untuk memetakan kata kunci dominan (seperti "cepat", "lambat", "kosong") pada bisnis berkinerja unggul versus bisnis kritis.
+10. Visualisasi Sentimen Teks (Word Cloud): Manfaatkan kolom Review_Text [Dimension] yang difilter menggunakan parameter Sentiment_Score [AVG atau Dimension] (positif/negatif) untuk memetakan kata kunci dominan (seperti "cepat", "lambat", "kosong") pada bisnis berkinerja unggul versus bisnis kritis.
