@@ -1,0 +1,17 @@
+Kolom Spesifik untuk Analisis Visualisasi pada Tableau
+1. Category & Total: Digunakan untuk merancang Bar Chart yang membandingkan kinerja pendapatan (revenue) berdasarkan subsektor produk.
+2. Payment_Method: Digunakan untuk Pie Chart atau Donut Chart guna melihat tingkat adopsi metode pembayaran digital dibandingkan transaksi tunai pada konsumen produk UMKM.
+3. Status: Digunakan untuk Funnel Chart atau Bar Chart horizontal untuk memetakan konversi pesanan dari proses masuk hingga berhasil diterima (Delivered) atau dikembalikan (Returned). Pemilihan visualisasi ini mendukung kejelasan dalam penyampaian insight operasional.   
+4. Order_Date: Digunakan untuk Line Chart agar masyarakat umum dapat dengan mudah melihat tren fluktuasi transaksi UMKM harian atau bulanan, mengingat visualisasi portofolio Anda harus dapat dipahami oleh audiens non-teknis.   
+
+Pertanyaan Riset
+1. Bagaimana perbandingan kontribusi pendapatan dari setiap subsektor kategori produk, dan subsektor manakah yang menjadi motor penggerak ekonomi utama bagi UMKM?
+2. Sejauh mana pemanfaatan metode pembayaran digital (Transfer Bank, Kartu Kredit, PayPal) oleh pelanggan UMKM jika dibandingkan dengan metode pembayaran konvensional di tempat (Cash on Delivery)?
+3. Bagaimana rasio keberhasilan distribusi barang terkirim (Delivered) dibandingkan dengan tingkat pembatalan (Cancelled) dan barang kembali (Returned), serta apa dampaknya terhadap akumulasi pendapatan UMKM?
+
+Key Insights & Rekomendasi
+1. Dominasi Subsektor Pakaian (Clothing): Kategori Clothing memimpin total pendapatan tertinggi dengan nilai 22.087,06, disusul cukup jauh oleh kategori Sports (12.622,92). Subsektor fesyen terbukti menjadi pendorong ekonomi paling potensial dalam dataset ini.
+2. Kerugian Operasional Fatal pada Kategori Buku: Ditemukan anomali di mana kategori Books mencatatkan agregat pendapatan bersih negatif sebesar -8.995,49. Hal ini sepenuhnya didorong oleh tingginya pesanan dengan nominal besar (seperti buku Biography dan Science) yang berstatus Returned. Rekomendasi: UMKM perlu segera melakukan audit terhadap kondisi fisik barang, kualitas pengemasan (packaging), serta akurasi deskripsi katalog untuk meminimalisasi lonjakan retur barang.   
+3. Krisis pada Kegagalan Jual dan Distribusi logistik: Sebanyak 26,47% dari keseluruhan transaksi pesanan berakhir dengan status Returned, dan 14,7% Cancelled. Pesanan yang sukses terkirim (Delivered) tercatat sangat minim, yaitu hanya 10,78%. Rekomendasi: Pelaku UMKM wajib mengevaluasi kembali alur kontrol kualitas produk dan mengevaluasi kinerja mitra logistik untuk menekan tingginya angka kegagalan pesanan.   
+4. Ketergantungan Kuat pada Metode Tunai (COD): Cash on Delivery memimpin sebagai preferensi pembayaran konsumen paling dominan (32,35%). Rekomendasi: Mengingat tingginya angka return (retur barang), metode pembayaran COD memberikan risiko gagal bayar dan logistik dua arah yang merugikan arus kas UMKM. Kolaborasi dengan platform e-commerce untuk memberikan insentif pembayaran non-tunai diperlukan guna mengakselerasi inklusi keuangan.   
+
